@@ -36,7 +36,8 @@
 #define RGBLIGHT_ANIMATIONS
 #define DEBOUNCE 5
 #define SOFT_SERIAL_PIN D0
-#define MASTER_RIGHT
+#define MASTER_LEFT
+//#define MASTER_RIGHT
 
 #ifdef RGBLIGHT_ENABLE
 #   define RGBLED_NUM 58
